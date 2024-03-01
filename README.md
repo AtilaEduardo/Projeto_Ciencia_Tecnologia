@@ -4,7 +4,7 @@ Favor ler o arquivo README.md pela visão CODE
 
 Repositório COBOL Destinado a Semana de Ciência e Tecnologia / Semana da Computação - IFBA
 
-O PGM adicionados há este repositorio são referentes a semana de ciência e tecnologia do IFBA campus Camaçari;
+O PGM adicionado há este repositorio é referente a Semana de Ciência e Tecnologia / Semana da Computação do IFBA campus Camaçari;
 
 Objetivo do projeto:
 - O objetivo principal deste projeto é ensinar aos alunos do IFBA os conceitos base do COBOL e suas funcionalidades através de um analisador de CPF.
