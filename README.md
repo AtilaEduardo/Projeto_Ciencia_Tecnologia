@@ -1,4 +1,7 @@
 # Projeto_Ciencia_Tecnologia
+
+Favor ler o arquivo README.md pela visão CODE
+
 Repositório COBOL Destinado a Semana de Ciência e Tecnologia - IFBA
 
 O PGM adicionados há este repositorio são referentes a semana de ciência e tecnologia do IFBA campus Camaçari;
